@@ -1,8 +1,8 @@
 # 2025_GURU2_Android
 ## MyMaps
 
-안드로이드 Kotlin 기반 지도 앱으로, 장소 등록/조회/삭제 기능을 제공합니다.  
-MVVM 패턴과 Room DB를 사용하여 구조적이고 유지보수 용이하게 설계되었습니다.
+지도 기반으로 장소를 등록하고 관리할 수 있는 안드로이드 앱입니다.  
+Room DB와 MVVM 아키텍처를 활용해 데이터 일관성과 유지보수성을 높였습니다.
 
 <p align="center">
   <img src="screenshot/screenshot1.png" width="150"/>
@@ -20,6 +20,15 @@ MVVM 패턴과 Room DB를 사용하여 구조적이고 유지보수 용이하게
 - 장소(Spot) 등록, 삭제, 조회
 - 지도에서 장소 위치 확인
 - 실시간 UI 업데이트 (LiveData & ViewModel)
+
+---
+
+## 역할
+- 안드로이드 개발 담당
+- 지도 API 연동 (Kakao Map)
+- Room DB 설계 및 데이터 CRUD 기능 구현
+- MVVM 패턴 적용 및 ViewModel, LiveData 활용
+- UI 개발 및 RecyclerView 기반 리스트 구현
 
 ---
 
