@@ -4,11 +4,14 @@
 안드로이드 Kotlin 기반 지도 앱으로, 장소 등록/조회/삭제 기능을 제공합니다.  
 MVVM 패턴과 Room DB를 사용하여 구조적이고 유지보수 용이하게 설계되었습니다.
 
-[온보딩 화면](screenshot/screenshot1.png)
-[메인 화면](screenshot/screenshot4.png)
-[스팟 추가](screenshot/screenshot2.png)
-[장소 방문 인증](screenshot/screenshot3.png)
-[마이페이지](screenshot/screenshot5.png)
+<p align="center">
+  <img src="screenshot/screenshot1.png" width="150"/>
+  <img src="screenshot/screenshot2.png" width="150"/>
+  <img src="screenshot/screenshot3.png" width="150"/>
+  <img src="screenshot/screenshot4.png" width="150"/>
+  <img src="screenshot/screenshot5.png" width="150"/>
+</p>
+
 
 ---
 
